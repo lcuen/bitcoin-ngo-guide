@@ -60,6 +60,7 @@ To mitigate these risks, humanitarian organizations often utilize the following 
 *   [Samourai Wallet](https://samouraiwallet.com/)
 *   [Nunchuk](https://nunchuk.io/)
 *   [Muun](https://muun.com/)
+*   [Wasabi Wallet](https://wasabiwallet.io)
 
 Most people with modest Bitcoin knowledge can use the above-mentioned self-custody tools either straight out of the box or with a modest degree of education from free online resources and videos available on the tool websites. These tools (used in combination with encrypted communication apps such as Signal) can be used to complete a variety of projects that range from [international fundraising](https://www.youtube.com/watch?v=KqsM-n-e4aY) and sales to grant and scholarship distribution.
 
