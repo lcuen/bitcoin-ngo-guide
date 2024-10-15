@@ -34,21 +34,18 @@ Hundreds of nonprofits and civil society groups around the world accept bitcoin 
 *   [WooCommerce](https://woocommerce.com/)
 *   [Bitrefill](https://www.bitrefill.com/)
 *   [Ledn](https://ledn.io/en/faq)
-*   [LocalBitcoins](https://localbitcoins.com/)
-*   [Buycoins](https://buycoins.africa/)
 *   [Sendcash](https://app.sendcash.africa/)
 *   [Paxful](https://paxful.com/)
 *   [Kuna](https://my.kuna.io/)
-*   [Alice-Bob](https://alice-bob.io/)
 *   [Money 24](https://money24.kiev.ua/)
 
 However useful these services may be, it’s important to remember that third-party providers carry risks comparable to a bank.
 
-Namely: you may lose access to your funds due to government pressure or management malintent or incompetence.
+Namely, you may lose access to your funds due to government pressure or management malintent or incompetence.
 
-Third party providers also represent a privacy risk to your organization and your donors since they have full visibility of all transactions that flow through them.
+Third-party providers also represent a privacy risk to your organization and your donors since they have full visibility of all transactions that flow through them.
 
-Additionally, many of these providers may simply exclude users in particular jurisdictions for a variety of reasons, such as the country being too small or controversial for global service providers to prioritize the excluded population. Examples may include Syria, Venezuela, Palestine, and remote island nations like Tonga.
+Additionally, many of these providers may simply exclude users in particular jurisdictions for various reasons, such as the country being too small or controversial for global service providers to prioritize the excluded population. Examples may include Syria, Venezuela, Palestine, and remote island nations like Tonga.
 
 To mitigate these risks, humanitarian organizations often utilize the following _self-custody tools_, which do not require a bank account or government-issued identification:
 
@@ -57,7 +54,6 @@ To mitigate these risks, humanitarian organizations often utilize the following 
 *   [BTCPay Server](https://btcpayserver.org/)
 *   [Electrum](https://electrum.org/#home)
 *   [BlueWallet](https://bluewallet.io/)
-*   [Samourai Wallet](https://samouraiwallet.com/)
 *   [Nunchuk](https://nunchuk.io/)
 *   [Muun](https://muun.com/)
 *   [Wasabi Wallet](https://wasabiwallet.io)
@@ -72,7 +68,7 @@ Since operating one’s own bitcoin wallet requires a modest degree of technical
 
 **Consultation providers**
 
-*   [Bitcoin for Fairness](https://bffbtc.org/what-we-do/) (NGO)
+*   [Bitcoin for Fairness](https://bffbtc.org/mission/) (NGO)
 *   [Casa](https://keys.casa/) (for-profit)
 *   [Unchained Capital](https://unchained.com/) (for-profit)
 *   [Bitcoin Embassy Tel Aviv](https://www.bitembassy.org/) (NGO)
